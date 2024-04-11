@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    margin-top: 30px;
+}
+
+
+
+.bordo {
+    border: solid 5px black;
+}
+
